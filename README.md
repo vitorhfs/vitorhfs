@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React, I've been into programming for the last 4 months, and I'm updating all my practical studies in this profile.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React, I've been into programming for this whole year, and I'm updating all my practical studies in this profile.
 
 I'm looking foward to work in the front-end area to improve my knowledge being into a workspace. My studies are directly projected to this area and I'm always trying to do a clear and concise code using mostly documentation to my own projects and also training with tutorials to learn components that are new to me to get more used to write in those languages.
 
