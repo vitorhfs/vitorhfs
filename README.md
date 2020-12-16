@@ -1,8 +1,20 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React, I've been into programming for this whole year, and I'm updating all my practical studies in this profile.
+- 🌱 I’m currently learning TypeScript and React Native/Advanced React, I've been into the front end stack this whole year, and I'm updating all my practical studies in this profile.
 
-I'm looking foward to work in the front-end area to improve my knowledge being into a workspace. My studies are directly projected to this area and I'm always trying to do a clear and concise code using mostly documentation to my own projects and also training with tutorials to learn components that are new to me to get more used to write in those languages.
+I'm looking forward to work in the front-end area as a junior developer, and in the meantime looking for any freelance as well. 
+
+I like to create smart interfaces with clear and concise features, I also am pretty confident with CSS using SASS and with a nice slice of the React universe and Vanilla Javascript.
+
+Some adicional skills, libraries, frameworks or technologies
+- TDD (Jest, Puppeteer)
+- RestAPI consume and creation with node.js
+- Express
+- MySQL
+- MongoDB
+- Redux/ContextAPI
+- Firebase
+- SASS
 
 <!--
 **vitorhfs/vitorhfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
