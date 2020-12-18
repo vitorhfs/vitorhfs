@@ -7,6 +7,7 @@ I'm looking forward to work in the front-end area as a junior developer, and in 
 I like to create smart interfaces with clear and concise features, I also am pretty confident with CSS using SASS and with a nice slice of the React universe and Vanilla Javascript.
 
 Some adicional skills, libraries, frameworks or technologies
+- Webpack
 - TDD (Jest, Puppeteer)
 - RestAPI consume and creation with node.js
 - Express
