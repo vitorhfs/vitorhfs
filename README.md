@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Junior Front-End developer at Carbonaut 🚀
+Front-End developer at Carbonaut 🚀
 
 <!--
 **vitorhfs/vitorhfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
